@@ -1,0 +1,26 @@
+#1
+1. menggunakan library pandas untuk mengelola dan menganalisi data dalam format tabel
+2. labelencoder dari sklearn untuk mengubah data kategorikal menjadi angka
+3. mendefinisikan jalur file (file_path) ke file excel yang berisi dataset
+4. menggunakan pd.read_excel untuk memuat data jedakan dataframe
+5. data.drop colums untuk menghapus kolom yang tidak relevan untuk dianalisis
+
+#2
+1. plot_tree dari sklearn.tree digunakan untuk membuat visualisasi pohon keputusan
+2. matplotplib.pyplot untuk librarynya
+3. class_name untuk membuat nama kelas yang unik
+4. plt.figure figsize untuk mengatur ukuran gambar
+5. plot_tree untuk menggambar pohon keputusan
+
+#3
+1. confusion_matrix untuk menghitung matriks kebingunan, confusionmatrixdisplay untuk kelas visualisasi matriks kebingungan
+2. confusion_matrix untuk menghitung matriks kebingungan 
+3. plt show untuk menampilkan visualisasi
+
+#4
+1. menggunakan library pandas untuk mengelola dan menganalisis data
+2. plt.figure figsize untuk mengatur ukuran gambar
+3. feature_importances untuk mendapakan nilai penting fitur dari model keputusan 
+4. sort_values(ascending=false) untuk mengurutkan nilai penting fitur dalam urutan menurun 
+5. plt title untuk memberi judul, plt.xlabel utnuk menambahkan label pada sumbu x, plt.ylabel untuk menambahkan label pada sumbu y
+6. plt show untuk menampilkan visualisasi
